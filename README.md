@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi !! I'm ALREADY (But my GitHub is BontyBo)
+
+## My Write-ups & Repositories
+
+To be added
+
+## Platforms
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ALREADY.png)](https://tryhackme.com/p/ALREADY)
 
 <!--
 **BontyBo/BontyBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
