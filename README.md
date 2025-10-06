@@ -1,4 +1,11 @@
-## Hi !! I'm ALREADY (But my GitHub is BontyBo)
+<h1 align="center">Hi !! I'm ALREADY (But my GitHub is BontyBo)</h1>
+<p>I use this github profile to share my Write-ups for challenges I've completed and my personal projects</p>
+
+<!-- This is not good enough to put here yet
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BontyBo&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
+-->
 
 ## My Write-ups & Repositories
 
